@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**SindiSekkas/SindiSekkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 RTU student | Engineer by passion, programmer by necessity  
+🔧 Love soldering, microcontrollers, and 3D printing  
+🐱 Built a cat feeder, but my cat still demands food manually  
+💡 If something is too complex, I’ll find a way to simplify it  
+🚗 Honda Civic owner—sometimes it squeaks, but I still love it.
 
-Here are some ideas to get you started:
+## ⚡ Fun facts about me:
+- 🛠️ I enjoy fixing things that aren’t necessarily broken  
+- 🏗️ My projects often start simple but evolve into *why did I even start this?*  
+- 🤖 Currently tinkering with AI, IoT, and automation  
+- ☕ Powered by coffee, but my cat thinks I'm just his servant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+📩 **Telegram:** [Click](https://t.me/sindisekkas)  
+
+- *"Best startup idea? The one that can be simplified."*
