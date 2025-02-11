@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 👨‍💻 RTU student | Engineer by passion, programmer by necessity  
 🔧 Love soldering, microcontrollers, and 3D printing  
